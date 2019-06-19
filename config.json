@@ -3,10 +3,10 @@
   "pagesDir": "pages",
   "wwwDir": "www",
   "staticDir": "static",
-  "title": "Latte, Jed? - A Blog About Nothing",
-  "description": "Site description here",
+  "title": "Latte, Jed? - A Rarely Updated Blog of No Particular Purpose",
+  "description": "The blog of Matthew Smith",
   "author": "Matthew Smith",
-  "bio": "I'm an autodidactict software engineer who previously owned a PR agency in Asia. I'm obsessed with writing software and specialize in macOS, iOS, 2D/3D graphics and computational geometry.<br/><br/>I used to be a food and wine enthusiast. Now I'm carnivore / zero carb and thriving on it.",
+  "bio": "I'm a technology consultant and software engineer with a background in corporate communications. Sometimes entrepreneur. Tezos investor. Proud husband and father. Food and wine nerd. Bangkokian.",
   "email": "m [@] lattejed [.] com",
   "twitter": "latte_jed",
   "home": "lattejed.com"
