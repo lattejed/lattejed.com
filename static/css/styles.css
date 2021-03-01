@@ -3,18 +3,16 @@
   box-sizing: border-box;
 }
 
-html, body {
-  height: 100%;
-}
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  max-width: 640px;
+  width: 100vw;
+  height: 100vh;
   margin: 0 auto;
   color: rgb(29, 31, 33);
   line-height: 1.5em;
   padding: 40px 0 0 0;
   position: relative;
+  text-align: center;
 }
 
 #content {
